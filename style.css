@@ -4,7 +4,8 @@
 }
 
 h1,
-h2 {
+h2,
+.content {
   font-family: Verdana, "Times New Roman", serif;
 }
 
