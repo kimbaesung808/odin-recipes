@@ -3,8 +3,12 @@
   width: 300px;
 }
 
-h1 {
+h1,
+h2 {
   font-family: Verdana, "Times New Roman", serif;
+}
+
+h1 {
   font-size: 40px;
   font-weight: 500;
 }
