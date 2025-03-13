@@ -2,3 +2,9 @@
   height: auto;
   width: 300px;
 }
+
+h1 {
+  font-family: Verdana, "Times New Roman", serif;
+  font-size: 48px;
+  font-weight: 1000;
+}
