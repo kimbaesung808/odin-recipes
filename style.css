@@ -32,3 +32,19 @@ body {
 .home {
   text-align: center;
 }
+
+.home-header,
+.recipe-list {
+  width: 400px;
+  background-color: #d3d3d3;
+}
+
+.home-header {
+  margin: 20px auto;
+  text-align: center;
+}
+
+.recipe-list {
+  margin: 0 auto;
+  box-sizing: border-box;
+}
